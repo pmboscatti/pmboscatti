@@ -4,7 +4,7 @@ Graduei em Arquitetura e Urbanismo, mas sempre tive bastante interesse em tecnol
 Por gostar das áreas de desenvolvimento e programação, comecei a estudar *Lógica de Programação* e *Front-end*. Com isso, senti a necessidade de me aprofundar ainda mais na área, entrando na graduação de Ciência da Computação, na PUC Minas, onde estou atualmente, podendo assim fazer uma transição para a carreira de tecnologia mais completa.
 
 <div align="center">
-  <img heigh="40" width="40" src="https://user-images.githubusercontent.com/110415518/222733043-8c0a54c9-8f33-483c-8bbc-a6d93dd4c75d.gif"/>
+  <p>[...]</p>
   <p>2º Período</p>
 </div>
 
